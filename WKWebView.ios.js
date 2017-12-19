@@ -392,7 +392,7 @@ class WKWebView extends React.Component {
    * document.addEventListener('message', e => { document.title = e.data; });
    * ```
    */
-  postMessage = (js) => {
+  postMessage = (data) => {
     UIManager.dispatchViewManagerCommand(
       this.getWebViewHandle(),
       UIManager.RCTWKWebView.Commands.postMessage,
