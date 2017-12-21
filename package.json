@@ -58,7 +58,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "react-native-wkwebview-reborn",
+  "name": "react-native-wkwebview-reborn-msg",
   "optionalDependencies": {},
   "peerDependencies": {
     "prop-types": "^15.6.0"
@@ -70,7 +70,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CRAlpha/react-native-wkwebview.git"
+    "url": "git+https://github.com/boundaryfree/react-native-wkwebview.git"
   },
   "scripts": {
     "lint": "eslint --ext .js --ext .jsx ."
